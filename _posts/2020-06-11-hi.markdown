@@ -1,0 +1,12 @@
+---
+layout: post
+title:  Hi
+date:   2020-06-11 11:12:00+0530
+description: Introduction
+---
+
+{% highlight python %}
+print("Hello World!")
+{% endhighlight %}
+
+My name is Swetha and welcome to my first blog post.
