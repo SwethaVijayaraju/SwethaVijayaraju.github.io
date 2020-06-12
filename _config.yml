@@ -9,7 +9,7 @@ footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
-url:  # the base hostname & protocol for your site
+url: https://swethavraj.com # the base hostname & protocol for your site
 last_updated: # leave blank if you don't want to display last updated
 
 # -----------------------------------------------------------------------------
