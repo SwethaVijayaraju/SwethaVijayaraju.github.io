@@ -13,6 +13,7 @@ img: /assets/img/sunnyvale/1.jpg
 </div>
 <div class="img_row">
     <img class="col one left" src="{{ site.baseurl }}/assets/img/sunnyvale/4.jpg" alt="" title="example image"/>
+    <img class="col one left" src="{{ site.baseurl }}/assets/img/sunnyvale/9.jpg" alt="" title="example image"/>
     <img class="col one right" src="{{ site.baseurl }}/assets/img/sunnyvale/5.jpg" alt="" title="example image"/>
 </div>
 <div class="img_row">
