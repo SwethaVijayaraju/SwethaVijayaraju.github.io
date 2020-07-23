@@ -50,3 +50,50 @@ Herbology Class:
         <img class="col one left" src="{{ site.baseurl }}/assets/img/auroville_botanical_garden/9.jpg" />
     </a>
 </div>
+---
+Environmental Educational Centre:
+* Raised Plinth 
+* Concrete rafters and beams
+* Fixed furniture
+* Exposed brick wall
+<div class="img_row">
+    <a data-fancybox="gallery" href="{{ site.baseurl }}/assets/img/auroville_botanical_garden/11.jpg">
+        <img class="col one left" src="{{ site.baseurl }}/assets/img/auroville_botanical_garden/11.jpg" />
+    </a>
+    <a data-fancybox="gallery" href="{{ site.baseurl }}/assets/img/auroville_botanical_garden/12.jpg">
+        <img class="col one left" src="{{ site.baseurl }}/assets/img/auroville_botanical_garden/12.jpg" />
+    </a>
+    <a data-fancybox="gallery" href="{{ site.baseurl }}/assets/img/auroville_botanical_garden/13.jpg">
+        <img class="col one left" src="{{ site.baseurl }}/assets/img/auroville_botanical_garden/13.jpg" />
+    </a>
+</div>
+---
+* Pedestal footing 
+* Recharge pit for rainwater harvesting
+* Filler slabs
+<div class="img_row">
+    <a data-fancybox="gallery" href="{{ site.baseurl }}/assets/img/auroville_botanical_garden/14.jpg">
+        <img class="col one left" src="{{ site.baseurl }}/assets/img/auroville_botanical_garden/14.jpg" />
+    </a>
+    <a data-fancybox="gallery" href="{{ site.baseurl }}/assets/img/auroville_botanical_garden/15.jpg">
+        <img class="col one left" src="{{ site.baseurl }}/assets/img/auroville_botanical_garden/15.jpg" />
+    </a>
+    <a data-fancybox="gallery" href="{{ site.baseurl }}/assets/img/auroville_botanical_garden/16.jpg">
+        <img class="col one left" src="{{ site.baseurl }}/assets/img/auroville_botanical_garden/16.jpg" />
+    </a>
+</div>
+---
+* Double roof
+* Mangalore tiles
+* Water tank
+<div class="img_row">
+    <a data-fancybox="gallery" href="{{ site.baseurl }}/assets/img/auroville_botanical_garden/17.jpg">
+        <img class="col one left" src="{{ site.baseurl }}/assets/img/auroville_botanical_garden/17.jpg" />
+    </a>
+    <a data-fancybox="gallery" href="{{ site.baseurl }}/assets/img/auroville_botanical_garden/18.jpg">
+        <img class="col one left" src="{{ site.baseurl }}/assets/img/auroville_botanical_garden/18.jpg" />
+    </a>
+    <a data-fancybox="gallery" href="{{ site.baseurl }}/assets/img/auroville_botanical_garden/19.jpg">
+        <img class="col one left" src="{{ site.baseurl }}/assets/img/auroville_botanical_garden/19.jpg" />
+    </a>
+</div>

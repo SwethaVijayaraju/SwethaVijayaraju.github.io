@@ -6,10 +6,6 @@ img: /assets/img/last_school/1.jpg
 date: Nov 11, 2017
 ---
 * Exuberant exteriors
-* Bringing the outdoors in
-* Elemental elegance
-
-
 <div class="img_row">
     <a data-fancybox="gallery" href="{{ site.baseurl }}/assets/img/last_school/1.jpg">
         <img class="col one left" src="{{ site.baseurl }}/assets/img/last_school/1.jpg" />
@@ -43,6 +39,9 @@ date: Nov 11, 2017
         <img class="col one left" src="{{ site.baseurl }}/assets/img/last_school/9.jpg" />
     </a>
 </div>
+---
+* Bringing the outdoors in
+
 <div class="img_row">
     <a data-fancybox="gallery" href="{{ site.baseurl }}/assets/img/last_school/10.jpg">
         <img class="col one left" src="{{ site.baseurl }}/assets/img/last_school/10.jpg" />
@@ -76,6 +75,9 @@ date: Nov 11, 2017
         <img class="col one left" src="{{ site.baseurl }}/assets/img/last_school/18.jpg" />
     </a>
 </div>
+---
+* Elemental elegance
+
 <div class="img_row">
     <a data-fancybox="gallery" href="{{ site.baseurl }}/assets/img/last_school/19.jpg">
         <img class="col one left" src="{{ site.baseurl }}/assets/img/last_school/19.jpg" />
@@ -109,3 +111,4 @@ date: Nov 11, 2017
         <img class="col one left" src="{{ site.baseurl }}/assets/img/last_school/27.jpg" />
     </a>
 </div>
+---
