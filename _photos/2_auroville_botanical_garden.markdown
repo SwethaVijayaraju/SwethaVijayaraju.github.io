@@ -1,10 +1,11 @@
 ---
 layout: page
 title: Auroville Botanical Gardens
-description: Herbology class
+description: Auroville
 img: /assets/img/auroville_botanical_garden/1.jpg
-date: May 6, 2019
+date: Nov 23, 2017
 ---
+Herbology Class: 
 * The Auroville Botanical Garden was started on 50 acres of old cashew land rescued from the threat of real estate development.
 * The site has been transformed into a  luxuriant landscape that serves as an area for research into environmentally sustainable approaches and environmental education.
 * More than 310 species have been planted in the 25-acre arboretum, 5,500 specimens have been planted in the 10-acre conservation forest, and a TDEF plant nursery has been created, capable of producing 50,000 seedlings per year to promote the re-introduction of the indigenous flora of the region.

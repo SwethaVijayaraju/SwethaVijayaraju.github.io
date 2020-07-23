@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Sunnyvale
-description: walk around the city
+title: Textures
+description: Sunnyvale
 img: /assets/img/sunnyvale/1.jpg
 date: June 1, 2019
 ---
-
+* Walk around the city!
 
 <div class="img_row">
     <a data-fancybox="gallery" href="{{ site.baseurl }}/assets/img/sunnyvale/1.jpg">
@@ -25,7 +25,7 @@ date: June 1, 2019
     <a data-fancybox="gallery" href="{{ site.baseurl }}/assets/img/sunnyvale/9.jpg">
         <img class="col one left" src="{{ site.baseurl }}/assets/img/sunnyvale/9.jpg"/>
     </a>
-    <a data-fancybox="gallery" href="{{ site.baseurl }}/assets/img/sunnyvale/9.jpg">
+    <a data-fancybox="gallery" href="{{ site.baseurl }}/assets/img/sunnyvale/5.jpg">
         <img class="col one right" src="{{ site.baseurl }}/assets/img/sunnyvale/5.jpg"/>
     </a>
 </div>
