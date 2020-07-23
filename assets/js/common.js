@@ -5,4 +5,11 @@ $(document).ready(function() {
     $('a.bibtex').click(function() {
         $(this).parent().parent().find(".bibtex.hidden").toggleClass('open');
     });
+
+    $('[data-fancybox="gallery"]').fancybox({
+        thumbs : {
+            autoStart : true,
+        },
+        protect: true,
+    });
 });

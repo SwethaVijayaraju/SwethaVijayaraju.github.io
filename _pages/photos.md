@@ -5,7 +5,7 @@ permalink: /photos/
 description: A growing collection of my captures.
 ---
 
-{% for photo in site.photos %}
+{% for photo in site.photos reversed %}
 
 {% if photo.redirect %}
 <div class="photo">

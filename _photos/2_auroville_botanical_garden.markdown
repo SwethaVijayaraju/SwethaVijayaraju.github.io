@@ -3,6 +3,7 @@ layout: page
 title: Auroville Botanical Gardens
 description: Herbology class
 img: /assets/img/auroville_botanical_garden/1.jpg
+date: May 6, 2019
 ---
 * The Auroville Botanical Garden was started on 50 acres of old cashew land rescued from the threat of real estate development.
 * The site has been transformed into a  luxuriant landscape that serves as an area for research into environmentally sustainable approaches and environmental education.
@@ -16,17 +17,35 @@ img: /assets/img/auroville_botanical_garden/1.jpg
 
 
 <div class="img_row">
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/auroville_botanical_garden/1.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/auroville_botanical_garden/2.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/auroville_botanical_garden/3.jpg" alt="" title="example image"/>
+    <a data-fancybox="gallery" href="{{ site.baseurl }}/assets/img/auroville_botanical_garden/1.jpg">
+        <img class="col one left" src="{{ site.baseurl }}/assets/img/auroville_botanical_garden/1.jpg" />
+    </a>
+    <a data-fancybox="gallery" href="{{ site.baseurl }}/assets/img/auroville_botanical_garden/2.jpg">
+        <img class="col one left" src="{{ site.baseurl }}/assets/img/auroville_botanical_garden/2.jpg" />
+    </a>
+    <a data-fancybox="gallery" href="{{ site.baseurl }}/assets/img/auroville_botanical_garden/3.jpg">
+        <img class="col one left" src="{{ site.baseurl }}/assets/img/auroville_botanical_garden/3.jpg" />
+    </a>
 </div>
 <div class="img_row">
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/auroville_botanical_garden/4.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/auroville_botanical_garden/5.jpg" alt="" title="example image"/>
-    <img class="col one right" src="{{ site.baseurl }}/assets/img/auroville_botanical_garden/6.jpg" alt="" title="example image"/>
+    <a data-fancybox="gallery" href="{{ site.baseurl }}/assets/img/auroville_botanical_garden/4.jpg">
+        <img class="col one left" src="{{ site.baseurl }}/assets/img/auroville_botanical_garden/4.jpg" />
+    </a>
+    <a data-fancybox="gallery" href="{{ site.baseurl }}/assets/img/auroville_botanical_garden/5.jpg">
+        <img class="col one left" src="{{ site.baseurl }}/assets/img/auroville_botanical_garden/5.jpg" />
+    </a>
+    <a data-fancybox="gallery" href="{{ site.baseurl }}/assets/img/auroville_botanical_garden/6.jpg">
+        <img class="col one left" src="{{ site.baseurl }}/assets/img/auroville_botanical_garden/6.jpg" />
+    </a>
 </div>
 <div class="img_row">
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/auroville_botanical_garden/7.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/auroville_botanical_garden/8.jpg" alt="" title="example image"/>
-    <img class="col one left" src="{{ site.baseurl }}/assets/img/auroville_botanical_garden/9.jpg" alt="" title="example image"/>
+    <a data-fancybox="gallery" href="{{ site.baseurl }}/assets/img/auroville_botanical_garden/7.jpg">
+        <img class="col one left" src="{{ site.baseurl }}/assets/img/auroville_botanical_garden/7.jpg" />
+    </a>
+    <a data-fancybox="gallery" href="{{ site.baseurl }}/assets/img/auroville_botanical_garden/8.jpg">
+        <img class="col one left" src="{{ site.baseurl }}/assets/img/auroville_botanical_garden/8.jpg" />
+    </a>
+    <a data-fancybox="gallery" href="{{ site.baseurl }}/assets/img/auroville_botanical_garden/9.jpg">
+        <img class="col one left" src="{{ site.baseurl }}/assets/img/auroville_botanical_garden/9.jpg" />
+    </a>
 </div>
