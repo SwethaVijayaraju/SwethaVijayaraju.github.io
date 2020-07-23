@@ -2,7 +2,7 @@
 layout: page
 title: Hawa Mahal
 description: Jaipur
-img: /assets/img/hawa_mahal/1.jpg
+img: /assets/img/hawa_mahal/2.jpg
 date: Dec 7, 2017
 ---
 * The Palace of Winds
